@@ -1,3 +1,2 @@
-aiogram==2.25.1
-aiohttp==3.9.1 --only-binary :all:
-python-dotenv==1.0.0
+telethon
+python-dotenv
